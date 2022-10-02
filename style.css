@@ -19,7 +19,7 @@ body{
     padding-bottom: 6rem;
     text-align: center;
     color: #000;
-    background-image: url("images/main.jpg");
+    background-image: url("images/main-photo.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;
@@ -29,7 +29,7 @@ body{
   header.hero .hero-heading {
     font-size: 3.25rem;
     font-weight: bold;
-    line-height: 3.25rem;
+    line-height: 4.25rem;
     margin-bottom: 2rem;
     color: #fff;
   }

@@ -58,6 +58,6 @@ Hit the ⭐ button if you found this useful.
 
 <div align="center">
 
-<a href="https://github.com/lakshyadeepgogoi">Source</a> | <a href="lakshyadeepgogoi/LakshyadeepGogoi123.github.io">Website</a>
+<a href="https://github.com/lakshyadeepgogoi">Source</a> | <a href="https://carefreefoundation.netlify.app/">Website</a>
 
 </div>
